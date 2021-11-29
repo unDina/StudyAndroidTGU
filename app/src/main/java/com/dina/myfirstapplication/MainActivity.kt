@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        Log.d(TAG, "Наша мама\nПопросила\nТри минуты тишины!")
+        Log.d(TAG, "testНаша мама\nПопросила\nТри минуты тишины!")
     }
 
     override fun onStart() {
@@ -35,6 +35,6 @@ class MainActivity : AppCompatActivity() {
 
     override fun onDestroy() {
         super.onDestroy()
-        Log.d(TAG, "Только кто-то\nГорько плачет!\nМама,слышишь?\nЭто мы!")
+        Log.d(TAG, "Только кто-то\nГорько плачет!\nМама,слышишь?\nЭто мы!)
     }
 }
