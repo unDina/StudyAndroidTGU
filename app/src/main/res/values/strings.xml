@@ -2,5 +2,9 @@
     <string name="app_name">DinasFirstApplication</string>
     <string name="Hello">Привет!!!</string>
     <string name="button">Кнопка</string>
-    <string name="bye">Пока</string>
+    <string name="bye">Пока!</string>
+    <string name="bottomNavView_some">кое-что</string>
+    <string name="BottomNavView_imp">Важное</string>
+    <string name="BottomNavView_trash">ерунда</string>
+    <string name="big_letters">Большие буквы</string>
 </resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/BotNavView_imp"
+        android:enabled="true"
+        android:icon="@drawable/imp_icon"
+        android:title="@string/BottomNavView_imp"/>
+    <item
+        android:id="@+id/BotNavView_some"
+        android:enabled="true"
+        android:icon="@drawable/some_icon"
+        android:title="@string/bottomNavView_some"/>
+    <item
+        android:id="@+id/BotNavView_trash"
+        android:enabled="true"
+        android:icon="@drawable/trash_icon"
+        android:title="@string/BottomNavView_trash"/>
+</menu>
